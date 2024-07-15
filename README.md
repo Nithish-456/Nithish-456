@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Fast api, Django, Springboot, On device AI**
 
-- 👯 I’m looking to collaborate on **End to End ML Projects**
+- 👯 I’m looking to collaborate on **End to End ML, DL & Gen AI Projects**
 
-- 🤝 I’m intrested in **Machine Learning, Deep Learning, Python Programming, Statistics and SQL**
+- 🤝 I’m intrested in **Machine Learning, Deep Learning, Python Programming, Statistics, Gen AI, LLM'S and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nithish-456](https://github.com/Nithish-456)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nithishpaidimarri@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/nithish456](https://linkedin.com/nithish456)
+- 📄 Know about my experiences [https://linkedin.com/nithish456](https://linkedin.com/in/nithish456)
 
 - ⚡ Fun fact **I think I am too funny**
 
